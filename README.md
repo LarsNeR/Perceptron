@@ -1,5 +1,5 @@
 # Perceptron
-A Basic Perceptron with Python
+An example of how to create a simple self-developed Perceptron from scratch in Python
 
 #### Main.py
 Shows how to use **Perceptron.py**
